@@ -1,0 +1,17 @@
+Welcome to mailkit, in this package you will find a regular email sender aswell as an email scheduler.
+
+Language used : Visual Basic 
+
+Creator : Charlie 
+
+Version : 0.0.1 
+
+Instructions : First start the program up via the .exe then enter your email and password, these must be valid crededentials or the program will not work. The forms themselves are fairly self
+explanatory.
+
+Have fun !
+
+ANYTHING THIS MAY DO TO YOUR COMPUTER OR MAY BE MALICIOUSLY EDDITED IS NOT CREDITED TO ME
+
+Thank you for downloading mailkit, 
+				Contact me with enquiries/complaints here : cswilson326@gmail.com
